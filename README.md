@@ -30,6 +30,10 @@ Install like other ue4ss .pak mods.
 
 Note that all .pak files are same, **put one and only one (must rename to `AbnormalWorkerMonitor_BP.pak`) to the mod foler**. The chunk id for the default one is `117`.
 
+#### Build
+
+See [guide here](https://pwmodding.wiki/)
+
 #### Gossips
 
 You would see many messages when entering a world, don't worry.
